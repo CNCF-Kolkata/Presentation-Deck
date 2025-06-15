@@ -5,15 +5,15 @@ Each event has its own folder with relevant slides, resources, and recordings (w
 
 ## Event Details (Template)
 
-Event Name: Replace with the name of the event
-Event Date: Replace with the date
-Event Description: Short overview of what the event covered — topics, formats, etc.
-Organizers: Name(s) of the core organizers
-Volunteers:
+- Event Name: Replace with the name of the event
+- Event Date: Replace with the date
+- Event Description: Short overview of what the event covered — topics, formats, etc.
+- Organizers: Name(s) of the core organizers
+- Volunteers:
 	- Name 1 – Role
 	- Name 2 – Role
 
-Links:
+- Links:
 	- 🔗 Event Page (if applicable)
 	- 🎥 Recordings (if applicable)
 
@@ -32,9 +32,9 @@ Example:
 ## Contributing
 
 Want to add your presentation or demo?
-	•	Create a folder under the respective event.
-	•	Name your file(s) clearly with Presenter Name – Topic.
-	•	Open a Pull Request with a short description.
+	- Create a folder under the respective event.
+	- Name your file(s) clearly with Presenter Name – Topic.
+	- Open a Pull Request with a short description.
 
 Please ensure your contributions follow the repo structure.
 
