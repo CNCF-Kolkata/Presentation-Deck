@@ -10,12 +10,12 @@ Event Date: Replace with the date
 Event Description: Short overview of what the event covered — topics, formats, etc.
 Organizers: Name(s) of the core organizers
 Volunteers:
-	•	Name 1 – Role
-	•	Name 2 – Role
+	- Name 1 – Role
+	- Name 2 – Role
 
 Links:
-	•	🔗 Event Page (if applicable)
-	•	🎥 Recordings (if applicable)
+	- 🔗 Event Page (if applicable)
+	- 🎥 Recordings (if applicable)
 
 ## Agenda
 
